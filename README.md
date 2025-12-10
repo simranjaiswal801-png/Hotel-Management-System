@@ -27,6 +27,31 @@ This project showcases different hotel rooms, services, booking pages, login for
 ---
 
 ## 📂 Project Structure
+Hotel-Management-System/
+│
+├── index.html
+├── about.html
+├── services.html
+├── contact.html
+├── rooms.html
+│
+├── css/
+│   ├── style.css
+│   ├── signup.css
+│   └── responsive.css
+│
+├── js/
+│   ├── script.js
+│   └── booking.js
+│
+├── images/
+│   ├── banner1.jpg
+│   ├── banner2.jpg
+│   ├── room1.jpg
+│   ├── room2.jpg
+│   └── logo.png
+│
+└── README.md
 
 ---
 
@@ -49,7 +74,7 @@ This project is created for learning frontend development basics and can be used
 ---
 
 ## 🙌 Author  
-*Simran Jaiswal*  
+*Simran Jaiswal* *Shaurya Pandey* *Sonali Sahani* 
 Hotel Management System – Frontend Web Project
 
 
