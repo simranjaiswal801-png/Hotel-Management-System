@@ -32,19 +32,19 @@ This project showcases different hotel rooms, services, booking pages, login for
 
 ## 🎯 Purpose of This Project  
 This project is created for learning frontend development basics and can be used as a  
-*Mini Project / College Submission / Portfolio Website*.
+*Mini Project / College Submission.
 
 ---
 
 ## 🌐 Live Demo  
 (Activate GitHub Pages first to get the link)
 
-👉 https://your-username.github.io/Hotel-Management-System/
+👉 https://github.com/simranjaiswal801png/Hotel-Management-System.git
 
 ---
 
 ## 📸 Screenshots  
-Add screenshots here after uploading your website.  
+ 
 
 ---
 
