@@ -75,6 +75,7 @@ This project is created for learning frontend development basics and can be used
 
 ## 🙌 Author  
 *Simran Jaiswal* *Shaurya Pandey* *Sonali Sahani* 
+
 Hotel Management System – Frontend Web Project
 
 
