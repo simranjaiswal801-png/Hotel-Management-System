@@ -39,7 +39,7 @@ This project is created for learning frontend development basics and can be used
 ## 🌐 Live Demo  
 (Activate GitHub Pages first to get the link)
 
-👉 https://github.com/simranjaiswal801png/Hotel-Management-System.git
+👉 https://simranjaiswal801-png.github.io/Hotel-Management-System/
 
 ---
 
