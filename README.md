@@ -30,7 +30,7 @@ Hotel-Management-System/
 └── images/
 
 🚀 Live Demo
-
+https://simranjaiswal801-png.github.io/Hotel-Management-System/
 
 📌 Project Purpose
 This project is created for:
